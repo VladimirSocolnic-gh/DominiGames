@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\VSProjects\DominiGames_ChessTest_VladimirSocolnic\MouseHandler.h(105,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\VSProjects\DominiGames_ChessTest_VladimirSocolnic\MouseHandler.h(106,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+  ChessGameOpenGL_01.vcxproj -> D:\VSProjects\DominiGames_ChessTest_VladimirSocolnic\x64\Debug\ChessGameOpenGL_01.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

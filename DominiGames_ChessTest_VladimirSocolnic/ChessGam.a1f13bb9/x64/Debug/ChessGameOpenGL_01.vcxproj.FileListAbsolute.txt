@@ -1,0 +1,12 @@
+D:\Work\releases\ChessGameOpenGL_01\x64\Debug\glfw3.dll
+D:\Work\releases\ChessGameOpenGL_01\x64\Debug\brotlidec.dll
+D:\Work\releases\ChessGameOpenGL_01\x64\Debug\brotlicommon.dll
+D:\Work\releases\ChessGameOpenGL_01\ChessGam.a1f13bb9\x64\Debug\ChessGam.24238A3C.Up2Date
+D:\VSProjects\ChessGameOpenGL_01\x64\Debug\glfw3.dll
+D:\VSProjects\ChessGameOpenGL_01\x64\Debug\brotlidec.dll
+D:\VSProjects\ChessGameOpenGL_01\x64\Debug\brotlicommon.dll
+D:\VSProjects\ChessGameOpenGL_01\ChessGam.a1f13bb9\x64\Debug\ChessGam.24238A3C.Up2Date
+D:\VSProjects\DominiGames_ChessTest_VladimirSocolnic\x64\Debug\glfw3.dll
+D:\VSProjects\DominiGames_ChessTest_VladimirSocolnic\x64\Debug\brotlidec.dll
+D:\VSProjects\DominiGames_ChessTest_VladimirSocolnic\x64\Debug\brotlicommon.dll
+D:\VSProjects\DominiGames_ChessTest_VladimirSocolnic\ChessGam.a1f13bb9\x64\Debug\ChessGam.24238A3C.Up2Date

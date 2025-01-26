@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\src">
+      <UniqueIdentifier>{99df475c-5654-47db-9a76-5bf650bcf41c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\include">
+      <UniqueIdentifier>{85cf80c7-2add-4d27-b18a-64e4ad673643}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\include\headers">
+      <UniqueIdentifier>{b93e0de5-6215-4c23-a25a-03970719325f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="ChessBoard.cpp">
+      <Filter>Исходные файлы\src</Filter>
+    </ClCompile>
+    <ClCompile Include="PieceRenderer.cpp">
+      <Filter>Исходные файлы\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils.cpp">
+      <Filter>Исходные файлы\src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Utils.h">
+      <Filter>Исходные файлы\include\headers</Filter>
+    </ClInclude>
+    <ClInclude Include="texture_shaders.h">
+      <Filter>Исходные файлы\include\headers</Filter>
+    </ClInclude>
+    <ClInclude Include="shaders_and_text_render.h">
+      <Filter>Исходные файлы\include\headers</Filter>
+    </ClInclude>
+    <ClInclude Include="PieceRenderer.h">
+      <Filter>Исходные файлы\include\headers</Filter>
+    </ClInclude>
+    <ClInclude Include="MouseHandler.h">
+      <Filter>Исходные файлы\include\headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ChessBoard.h">
+      <Filter>Исходные файлы\include\headers</Filter>
+    </ClInclude>
+    <ClInclude Include="board_shaders.h">
+      <Filter>Исходные файлы\include\headers</Filter>
+    </ClInclude>
+    <ClInclude Include="AIHandler.h">
+      <Filter>Исходные файлы\include\headers</Filter>
+    </ClInclude>
+    <ClInclude Include="includes.h">
+      <Filter>Исходные файлы\include</Filter>
+    </ClInclude>
+    <ClInclude Include="Constants.h">
+      <Filter>Исходные файлы\include\headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Helpers.h">
+      <Filter>Исходные файлы\include\headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Initialization.h">
+      <Filter>Исходные файлы\include\headers</Filter>
+    </ClInclude>
+    <ClInclude Include="GameLogic.h">
+      <Filter>Исходные файлы\include\headers</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderHelpers.h">
+      <Filter>Исходные файлы\include\headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
