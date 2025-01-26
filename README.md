@@ -31,3 +31,6 @@
 1. Скомпилируйте проект с указанием стандарта C++17.
    ```bash
    g++ -std=c++17 -o ChessGame main.cpp -lglfw -lGL -ldl
+   
+### Видео Демонстрации (50 sec)
+https://www.youtube.com/watch?v=5BCzia-dSjY
